@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.lookatmeunity.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\LookAtMe\\LookAtMeUnity\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LookAtMeUnity [Testing]"
+        }
+      }
+    }
+  ]
+=======
+>>>>>>> master
 {
   "source": "Unity",
   "applications": [
@@ -13,4 +33,8 @@
       }
     }
   ]
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> master
 }
