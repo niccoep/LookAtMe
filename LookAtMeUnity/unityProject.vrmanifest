@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.lookatmeunity.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\LookAtMe\\LookAtMeUnity\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\nicco\\OneDrive\\Documents\\UnityGit\\LookAtMe\\LookAtMeUnity\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "LookAtMeUnity [Testing]"
